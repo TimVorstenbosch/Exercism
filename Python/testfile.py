@@ -58,4 +58,3 @@
 
 # {'honey', 'breadcrumbs', 'sunflower oil', 'cornstarch', 'smoked tofu', 'tomatoes', 'yeast', 'celeriac', 'oregano', 'red pepper flakes', 'ginger', 'bell pepper', 'lemon', 'mushrooms', 'barley malt', 'rosemary', 'spaghetti', 'mixed herbs', 'tofu', 'fresh basil', 'cashews', 'vegetable stock', 'vegetable oil', 'lemon zest', 'parsley', 'red onion', 'silken tofu', 'garlic powder'}
 
-print(4 % 4)
